@@ -10,6 +10,10 @@
   <a href="https://discordapp.com/users/217013740170641409">
     <img width="40" height="40" alt="discord" src="https://github.com/user-attachments/assets/95af6c6f-bc26-4717-9048-0d451b8566a1" />
   </a>
+  <a href="mailto:sigurdjbratt@hotmail.no">
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/dc2b7c82-eb8f-4b13-83af-f954d5dbc86b" />
+  </a>
+
 </div>
 
 ## A little about me
