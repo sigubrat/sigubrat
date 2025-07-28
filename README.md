@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1 >Let's connect and have a chat!💬</h1>
+  <h1 >You can reach me on any of the platforms below!💬</h1>
   <a href="https://www.linkedin.com/in/sigurd-johannes-brattland-178966247/">
     <img  width="40" height="40" alt="linkedIn" src="https://github.com/user-attachments/assets/a90ea606-4faa-4ab6-a46a-ad2ef6ab86dc" />
   </a>
