@@ -52,4 +52,9 @@ hobbies:
 
 ```
 
+## Stats
 
+<p align="center">
+  <a href="https://github.com/sigubrat?tab=repositories"><img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigubrat&layout=compact&hide=html,roff"/>
+  <a href="https://github.com/sigubrat"><img width="44%" src="https://github-readme-stats.vercel.app/api?username=sigubrat&show_icons=true"/>
+</p>
