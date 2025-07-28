@@ -23,8 +23,16 @@ name: Sigurd Johannes Brattland
 location: Tromsø, Norway
 current_job:
   title: Full-stack Developer
+  type: Full-time
   company: Helse Nord IKT
-  since: August 2023
+  description: Medical Quality Registries
+  duration: August 2023-
+previous_job:
+  title: Full-stack Developer
+  type: Part-time alongside studies
+  company: Dualog
+  description: Cross-platform catch-reporting application 'Fangstr'
+  duration: June 2022 - May 2023
 education:
   degree: Master's (siving) in Computer Science
   university: UiT Arctic University of Norway
