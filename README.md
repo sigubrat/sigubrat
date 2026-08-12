@@ -66,5 +66,5 @@ hobbies:
 
 ## Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=sigubrat&theme=nightowl)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=sigubrat&theme=nightowl&border_radius=24)
 
