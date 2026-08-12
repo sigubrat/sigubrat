@@ -68,9 +68,6 @@ hobbies:
 
 <p align="left">
   <a href="https://github.com/sigubrat?tab=repositories">
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigubrat&layout=compact&theme=tokyonight&hide=html,roff"/>
-  </a>
-  <a>
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=sigubrat&theme=tokyonight&custom_title=Github%20stats%20(public%20repos)" />
+    ![GitHub Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
   </a>
 </p>
