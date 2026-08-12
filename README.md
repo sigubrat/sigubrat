@@ -68,6 +68,6 @@ hobbies:
 
 <p align="left">
   <a href="https://github.com/sigubrat?tab=repositories">
-    ![GitHub Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
+    ![GitHub Stats](https://ghstats.dev/api/card?username=sigubrat)
   </a>
 </p>
